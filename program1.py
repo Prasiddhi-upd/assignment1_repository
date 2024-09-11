@@ -1,7 +1,7 @@
 print ("Hello world!")
 print ("Let's calculate square roots.")
 
-num = 36
+num = 64
 
 num_sqrt = num ** 0.5
 
